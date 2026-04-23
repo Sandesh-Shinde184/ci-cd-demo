@@ -1,2 +1,2 @@
 Hello CI/CD
-Change Text
+Change Texts
